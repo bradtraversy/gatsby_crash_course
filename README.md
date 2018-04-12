@@ -1,24 +1,19 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# Gatsby Crash Course
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+This is a sample Gatsby website with a Markdown blog. It is the project from the Gatsby JS Crash Course on YouTube by Traversy Media
 
 ## Install
 
 Make sure that you have the Gatsby CLI program installed:
+
 ```sh
-npm install --global gatsby-cli
+npm install -g gatsby-cli
 ```
 
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
-```
+Install the dependencies:
 
-Then you can run it by:
 ```sh
-cd gatsby-example-site
-npm run develop
+npm install
 ```
 
 ## Deploy
